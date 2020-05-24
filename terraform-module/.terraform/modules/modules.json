@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"module-example","Source":"github.com/saravananajay/myterraformcode.git","Dir":".terraform/modules/module-example"},{"Key":"myterraformcode/module-example","Source":"github.com/saravananajay/myterraformcode.git","Dir":".terraform/modules/myterraformcode/module-example"},{"Key":"","Source":"","Dir":"."}]}
